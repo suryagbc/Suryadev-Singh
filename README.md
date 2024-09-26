@@ -1,4 +1,4 @@
-# NRC
+# Number Row Characters
 - ! Exclamation mark
 - @ At symbol
 - Hash
