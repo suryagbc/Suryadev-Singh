@@ -12,3 +12,4 @@
 - [Snapchat] (https://snapchat.com/t/QsGAXDOv)
 - 😂 Face with Tears of Joy
 - 😇 Smiling Face with Halo
+[cli command](docs/cli.md)
